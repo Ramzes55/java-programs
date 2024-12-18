@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class StringComparison {
     public static void main(String[] args) {
         // Создаем объект Scanner для ввода
         Scanner scanner = new Scanner(System.in);
